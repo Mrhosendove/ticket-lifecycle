@@ -1,3 +1,5 @@
-catalog-images-resized/c3f5a050da2f4803c622f7e89f3b065b/large
+<img src= "https://imgur.com/r4klOFm.png"/>
+
+</p>
 <h1>OsTicket Lifecycle </h1>
   - In this tutorial 
