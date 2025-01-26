@@ -1,1 +1,2 @@
-- <h2> Os Ticket Lifecycle </h2>
+<h1>OsTicket Lifecycle </h1>
+  - In this tutorial 
