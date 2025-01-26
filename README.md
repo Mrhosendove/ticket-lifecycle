@@ -22,3 +22,5 @@ In this tutorial, I'll demonstrate the lifecycle of a ticket being openly submit
 - Assignment & Communication
 - Working The Issue
 - Resolution
+
+<h2>STEP 1</h2>
