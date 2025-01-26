@@ -3,7 +3,7 @@
 </p>
 
 <h1>OsTicket Lifecycle </h1>
-In this tutorial, I'll demonstrate the lifecycle of a ticket being resolved from a Helpdesk Professional perspective.
+In this tutorial, I'll demonstrate the lifecycle of a ticket being openly submitted and resolved from a Helpdesk Professional perspective.
 
 <h2>Enviroments & Technologies Used</h2>
 
