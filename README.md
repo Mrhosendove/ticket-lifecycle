@@ -16,4 +16,9 @@ In this tutorial, I'll demonstrate the lifecycle of a ticket being openly submit
 
   - Windows 10
 
+<h2>Ticket Lifecycle Stages</h2>
 
+- Intake
+- Assignment & Communication
+- Working The Issue
+- Resolution
