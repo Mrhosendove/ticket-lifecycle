@@ -11,6 +11,7 @@ In this tutorial, I'll demonstrate the lifecycle of a ticket being openly submit
   - Os Ticket System
   - Remote Desktop
   - Internet Information Services
+  - HeidiSQL
 
 <h2>Operating Systems Used</h2>
 
