@@ -25,3 +25,5 @@ In this tutorial, I'll demonstrate the lifecycle of a ticket being openly submit
 - Resolution
 
 <h2>STEP 1</h2>
+
+Lets create a new ticket by opening our enduser URL, we're gonna create a ticket as (Alice) or your Osticket User. 
