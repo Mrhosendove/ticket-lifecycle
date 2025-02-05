@@ -26,4 +26,6 @@ In this tutorial, I'll demonstrate the lifecycle of a ticket being openly submit
 
 <h2>STEP 1</h2>
 
-Lets create a new ticket by opening our enduser URL, we're gonna create a ticket as (Alice) or your Osticket User. 
+Lets create a new ticket by opening our enduser URL, we're gonna create a new ticket as (Alice) or your Osticket User. Fill out the form and submit create ticket. 
+
+![Open New Ticket](https://github.com/user-attachments/assets/8f56ffe8-fd12-4f56-8b8e-f2c65d9a60b2)
