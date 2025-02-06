@@ -26,6 +26,25 @@ In this tutorial, I'll demonstrate the lifecycle of a ticket being openly submit
 
 <h2>STEP 1</h2>
 
-Lets create a new ticket by opening our enduser URL, we're gonna create a new ticket as (Alice) or your Osticket User. Fill out the form and submit create ticket. 
+Lets create a new ticket by opening our enduser URL, we're gonna create a new ticket as (Alice) or your Osticket User. Fill out the form then click, "create ticket."
 
-![Open New Ticket](https://github.com/user-attachments/assets/8f56ffe8-fd12-4f56-8b8e-f2c65d9a60b2)
+<p align= "center">
+  
+  ![Open New Ticket](https://github.com/user-attachments/assets/8f56ffe8-fd12-4f56-8b8e-f2c65d9a60b2)
+  
+  ![Ticket Form](https://github.com/user-attachments/assets/064f57ba-178b-43f1-a72b-51e0e4133a1c)
+
+</p>
+
+<h2>Step 2</h2>
+
+Once you've submitted your ticket, you're gonna log into your help desk portal as (Brian) or your OsTicket agent. After logging in, click on the ticket, and observe the properties.
+
+<p align= "center">
+
+  ![Brian Login](https://github.com/user-attachments/assets/13881a0d-7e43-43a8-a9a3-632c5f67db57)
+
+  ![Brian Portal](https://github.com/user-attachments/assets/91b6c473-0204-4cd3-a7c8-43b5d18cde8d)
+
+  
+
