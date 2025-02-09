@@ -44,7 +44,7 @@ Once you've submitted your ticket, you're gonna log into your help desk portal a
 
   ![Brian Login](https://github.com/user-attachments/assets/13881a0d-7e43-43a8-a9a3-632c5f67db57)
 
-  ![Brian Portal](https://github.com/user-attachments/assets/91b6c473-0204-4cd3-a7c8-43b5d18cde8d)
+ 
 
   
 
