@@ -34,6 +34,8 @@ Lets create a new ticket by opening our enduser URL, we're gonna create a new ti
   
   ![Ticket Form](https://github.com/user-attachments/assets/064f57ba-178b-43f1-a72b-51e0e4133a1c)
 
+  
+
 </p>
 
 <h2>Step 2</h2>
